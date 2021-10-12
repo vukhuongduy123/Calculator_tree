@@ -1,0 +1,3 @@
+#include "afxres.h"
+
+1 RT_MANIFEST "calculator.exe.manifest"
